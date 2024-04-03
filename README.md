@@ -7,3 +7,4 @@
 [Lab-06](LAB_06.ipynb) - Implement the K Nearest Neighbour Classification uusing Classified Manufacturing Dataset<br>
 [Lab-07](LAB_07.ipynb) - Implement Support Vector Machine Classification using Brest Cancer Dataset<br>
 [Lab-08](Lab_08.ipynb) - Decision Tree for classification<br>
+[Lab-09](Lab_09.ipynb) - Implementing Random Forest Ensemble Model using Lending Data<br>
